@@ -1,0 +1,12 @@
+.shape
+{
+	height: 120px;
+	border: 1px solid;
+	background-color: #2c5e85;
+	/*position: absolute;*/
+}
+.text_formate
+{
+	font-size: 33px;
+    color: papayawhip;
+}

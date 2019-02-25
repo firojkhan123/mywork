@@ -1,0 +1,45 @@
+.body {
+  margin: 0;
+  min-width: 250px;
+
+}
+*{
+  box-sizing: border-box;
+}
+.input-text{
+	width: 80%;
+	padding: 7px;
+	text-align: center;
+	margin-top: 0px;
+}
+.addBtn {
+  padding: 10px;
+  width: 48%;
+  background: green;
+  color: #555;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 0;
+  text-align: -webkit-center;
+}
+.line-through-ontext
+{
+  text-decoration: line-through;
+
+}
+#myUL{
+  list-style: none;
+  font-size: 20px;
+}
+#inputValue{
+  
+  margin-top: 4px;
+  margin-right: 20px;
+}
+ul li:first-child{
+  padding: 10px 0px 0px 0px !important;
+}
+ul li{
+  padding: 0px !important;
+}
