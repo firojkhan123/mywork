@@ -12,4 +12,4 @@
 
 # Hotel Landing Page 
 
-#### In this assignment I have create nav-bar and with the help of div to create a search box of hotel landing page.
+##### In this assignment I have create nav-bar and with the help of div to create a search box of hotel landing page.
